@@ -4,7 +4,7 @@
   <h1>Hi there, I'm Parthivsurya!</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F53896&center=true&vCenter=true&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;C%2B%2B+%26+Python+Developer;Engineering+Efficient+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F53896&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Data+Structures+%26+Algorithms;Web+Development;C%2B%2B+%26+Python+Developer;Engineering+Efficient+Solutions" alt="Typing SVG" />
   </a>
 
 </div>
