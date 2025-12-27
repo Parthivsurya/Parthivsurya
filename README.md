@@ -4,12 +4,9 @@
   <h1>Hi there, I'm Parthivsurya!</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F53896&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;C%2B%2B+%26+Python+Enthusiast;Open+Source+Contributor;Building+Efficient+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F53896&center=true&vCenter=true&width=435&lines=Data+Structures+%26+Algorithms;Web+Development;C%2B%2B+%26+Python+Developer;Engineering+Efficient+Solutions" alt="Typing SVG" />
   </a>
 
-  <p>
-    <b> 🚀 Creating, Coding, and Polishing My Skills </b>
-  </p>
 </div>
 
 ---
@@ -18,7 +15,7 @@
 
 - 🔭 I’m currently working on **Data Structures & Web Development projects.**
 - 🌱 I’m currently learning **Advanced Neo4j patterns and System Design.**
-- 👯 I’m looking to collaborate on **Open Source C++ or React projects.**
+- 👯 I’m looking to collaborate on **C++ or React projects.**
 - ⚡ Fun fact: **I love blending hardware (Arduino) with software solutions!**
 
 ---
@@ -51,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthivsurya&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="Parthivsurya's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthivsurya&show_icons=true&theme=radical&hide_border=true" height="150" alt="Parthivsurya's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthivsurya&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
