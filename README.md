@@ -48,8 +48,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthivsurya&show_icons=true&theme=radical&hide_border=true" height="150" alt="Parthivsurya's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthivsurya&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthivsurya&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="150" alt="Parthivsurya's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthivsurya&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800" height="150" alt="Top Languages" />
 </div>
 
 <div align="center">
