@@ -48,13 +48,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthivsurya&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="150" alt="Parthivsurya's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthivsurya&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800" height="150" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthivsurya&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthivsurya&show_icons=true&theme=radical&hide_border=true" height="150" alt="Parthivsurya's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthivsurya&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=Parthivsurya&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
@@ -65,10 +62,7 @@
   <a href="https://www.linkedin.com/in/parthivsurya-k-b-60aa55206/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter-url">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:parthivsuryakb@gmail.com>
+  <a href="mailto:parthivsuryakb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
