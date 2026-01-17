@@ -43,19 +43,6 @@
 
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthivsurya&show_icons=true&theme=radical&hide_border=true" height="150" alt="Parthivsurya's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthivsurya&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=Parthivsurya&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
-
----
-
 ### 📫 Connect with Me
 
 <div align="center">
