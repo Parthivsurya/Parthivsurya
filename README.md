@@ -52,16 +52,7 @@
 
 ---
 
-### 🚀 Featured Projects
 
-> *Add your projects here!*
-
-| **Project** | **Description** | **Stack** |
-| :--- | :--- | :--- |
-| **Project Name** | Short description of the project. | `React` `Node.js` |
-| **Project Name** | Short description of the project. | `Python` `Neo4j` |
-
----
 
 ### 📫 Connect with Me
 
