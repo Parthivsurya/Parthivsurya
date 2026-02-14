@@ -20,6 +20,19 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthivsurya&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthivsurya&theme=tokyonight" width="400" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthivsurya&layout=compact&theme=tokyonight" width="300" />
+</div>
+
+---
+
 ### 🛠️ Languages & Tools
 
 <div align="center">
@@ -53,3 +66,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Parthivsurya&color=blueviolet&style=for-the-badge" alt="Visitor Count" />
+</p>
