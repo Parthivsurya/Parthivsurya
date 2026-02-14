@@ -38,16 +38,14 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Parthivsurya&show_icons=true&theme=tokyonight&count_private=true" />
-      </td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Parthivsurya&show_icons=true&theme=tokyonight&count_private=true" />
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthivsurya&theme=tokyonight" />
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthivsurya&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Parthivsurya&layout=compact&theme=tokyonight" />
 </div>
 
 ---
