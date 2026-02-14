@@ -8,7 +8,7 @@
 
 <div align="center">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Parthivsurya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
 </div>
 
 ---
@@ -37,16 +37,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Parthivsurya&show_icons=true&theme=tokyonight&count_private=true" />
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthivsurya&theme=tokyonight" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Parthivsurya&show_icons=true&theme=tokyonight&count_private=true&v=1" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthivsurya&theme=tokyonight&v=1" />
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Parthivsurya&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Parthivsurya&layout=compact&theme=tokyonight&v=1" />
 </div>
 
 ---
