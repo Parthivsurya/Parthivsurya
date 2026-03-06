@@ -34,7 +34,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
       <td>
@@ -53,7 +53,7 @@
 
 
 
-### 📫 Connect with Me
+###  Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/parthivsurya-k-b-60aa55206/">
