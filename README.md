@@ -23,9 +23,19 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,react,html,css,nodejs,supabase,mysql,sqlite,postman,git,docker,linux,vscode,arduino&theme=dark" alt="My Skills" />
-  </a>
+
+**Programming Languages & Frameworks**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,react,html,css,nodejs&theme=dark" alt="Languages & Frameworks" />
+</a>
+
+**Tools & Platforms**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=supabase,mysql,sqlite,postman,git,docker,linux,vscode,arduino&theme=dark" alt="Tools & Platforms" />
+</a>
+
 </div>
 
 ---
