@@ -30,7 +30,17 @@
   <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,react,html,css,nodejs&theme=dark" alt="Languages & Frameworks" />
 </a>
 
-**Tools & Platforms**
+</div>
+
+### GitHub Contributions Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthivsurya&theme=react&hide_border=true" alt="Parthivsurya's GitHub Activity Graph" />
+</div>
+
+### Tools
+
+<div align="center">
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=supabase,mysql,sqlite,postman,git,docker,linux,vscode,arduino&theme=dark" alt="Tools & Platforms" />
@@ -55,8 +65,6 @@
   </table>
   <br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Parthivsurya&layout=compact&theme=tokyonight&v=1" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthivsurya&theme=react&hide_border=true" alt="Parthivsurya's GitHub Activity Graph" />
 </div>
 
 ---
