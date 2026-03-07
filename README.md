@@ -11,15 +11,13 @@
 
 </div>
 
----
+### About Me
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Data Structures & Web Development projects.**
-- 🌱 I’m currently learning **Advanced Neo4j patterns and System Design.**
-- 👯 I’m looking to collaborate on **C++ or React projects.**
-- ⚡ Fun fact: **I love blending hardware (Arduino) with software solutions!**
-
+- Currently focused on building and optimizing **Data Structures and full-stack Web Development projects**.
+- Exploring deeper concepts in **System Design** and **Advanced Neo4j architectural patterns**.
+- Always open to collaborating on complex **C++ algorithms** and modern **React applications**.
+- I enjoy bridging the gap between logic and the physical world by integrating **hardware solutions (Arduino/ESP32)** with robust software systems.
+- 
 ---
 
 ### 🛠️ Tech Stack
