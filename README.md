@@ -37,6 +37,8 @@
 ### GitHub Stats
 
 <div align="center">
+  <table>
+    <tr>
       <td>
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Parthivsurya&show_icons=true&theme=tokyonight&count_private=true&v=1" />
       </td>
@@ -47,6 +49,8 @@
   </table>
   <br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Parthivsurya&layout=compact&theme=tokyonight&v=1" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthivsurya&theme=tokyo-night" alt="Parthivsurya's GitHub Activity Graph" />
 </div>
 
 ---
