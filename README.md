@@ -50,7 +50,7 @@
   <br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Parthivsurya&layout=compact&theme=tokyonight&v=1" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthivsurya&theme=tokyo-night" alt="Parthivsurya's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthivsurya&theme=react&hide_border=true" alt="Parthivsurya's GitHub Activity Graph" />
 </div>
 
 ---
