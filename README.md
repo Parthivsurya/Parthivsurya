@@ -13,11 +13,11 @@
 
 ### About Me
 
-- Currently focused on building and optimizing **Data Structures and full-stack Web Development projects**.
-- Exploring deeper concepts in **System Design** and **Advanced Neo4j architectural patterns**.
-- Always open to collaborating on complex **C++ algorithms** and modern **React applications**.
-- I enjoy bridging the gap between logic and the physical world by integrating **hardware solutions (Arduino/ESP32)** with robust software systems.
-- 
+- Building **full-stack web applications** with React, Node.js, and Supabase.
+- Designing systems with **Neo4j graph databases** and scalable backend architectures.
+- Open to collaborating on **C++ performance-critical projects** and modern **React apps**.
+- Passionate about bridging hardware and software — working with **Arduino & ESP32** for real-world IoT solutions.
+
 ---
 
 ### 🛠️ Tech Stack
