@@ -20,33 +20,25 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Programming Languages & Frameworks**
+### Programming Languages & Frameworks
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,react,html,css,nodejs&theme=dark" alt="Languages & Frameworks" />
 </a>
 
-</div>
+<br>
 
 ### GitHub Contributions Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthivsurya&theme=react&hide_border=true" alt="Parthivsurya's GitHub Activity Graph" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthivsurya&theme=react&hide_border=true" alt="Parthivsurya's GitHub Activity Graph" width="100%" />
+
+<br>
 
 ### Tools
-
-<div align="center">
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=supabase,mysql,sqlite,postman,git,docker,linux,vscode,arduino&theme=dark" alt="Tools & Platforms" />
 </a>
-
-</div>
 
 ---
 
