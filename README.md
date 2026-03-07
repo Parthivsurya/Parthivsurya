@@ -37,7 +37,7 @@
 ### Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=supabase,mysql,sqlite,postman,git,docker,linux,vscode,arduino&theme=dark" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=supabase,mysql,sqlite,postman,git,github,docker,linux,vscode,arduino,mongodb,postgres,firebase,vercel,figma&theme=dark" alt="Tools & Platforms" />
 </a>
 
 ---
