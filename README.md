@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,react,html,css,nodejs,supabase,mysql,sqlite,neo4j,postman,git,docker,linux,vscode,arduino,cypher,yolo,esp32&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,react,html,css,nodejs,supabase,mysql,sqlite,postman,git,docker,linux,vscode,arduino&theme=dark" alt="My Skills" />
   </a>
 </div>
 
