@@ -6,7 +6,7 @@ Computer Science student with hands-on experience in Python, JavaScript, C, data
 
 ![](https://skillicons.dev/icons?i=py,js,c,cpp,react,nodejs,supabase,mongodb,arduino,git&theme=dark)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Parthivsurya&theme=react&hide_border=true&area=true)
+![Shooting down my contributions](game.gif)
 
 [linkedin](https://www.linkedin.com/in/parthivsurya-k-b-60aa55206/) · [gmail](mailto:parthivsuryakb@gmail.com)
 
